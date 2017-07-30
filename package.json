@@ -1,0 +1,17 @@
+{
+  "name": "emoji-and-wine",
+  "version": "0.1.0",
+  "description": "A Facebook chat bot that tests your emoji game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Malthe Milthers",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.4"
+  }
+}
